@@ -20,6 +20,7 @@ public class HeaderPage extends BasePage{
 
 	
 	public LoginPage GotoLoginPage() {
+		//Add comment
 		 click(myAccountLink);
 		 click(loginlink);
 		 LoginPage lp = new LoginPage(driver);
