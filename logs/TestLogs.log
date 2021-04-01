@@ -1,0 +1,6 @@
+17:27:07.532 [TestNG] INFO  QA_OpenCart.QA_Test.BaseTest - Driver Initiated
+17:27:13.235 [TestNG] INFO  QA_OpenCart.QA_Test.BaseTest - Driver Closed
+17:28:13.091 [TestNG] INFO  QA_OpenCart.QA_Test.BaseTest - Driver Initiated
+17:28:18.496 [TestNG] INFO  QA_OpenCart.QA_Test.LoginTest - Clicked Login Button
+17:28:21.931 [TestNG] INFO  QA_OpenCart.QA_Test.LoginTest - Clicked Login Button
+17:28:23.406 [TestNG] INFO  QA_OpenCart.QA_Test.BaseTest - Driver Closed

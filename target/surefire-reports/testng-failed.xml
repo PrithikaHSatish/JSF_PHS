@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" verbose="0">
+  <listeners>
+    <listener class-name="QA_OpenCart.QA_Test.Listeners"/>
+  </listeners>
+  <test parallel="tests" name="Test(failed)">
+    <classes>
+      <class name="QA_OpenCart.QA_Test.LoginTest">
+        <methods>
+          <include name="Login"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- QA_OpenCart.QA_Test.LoginTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

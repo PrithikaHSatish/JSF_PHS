@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-31T11:58:10Z" name="Suite" finished-at="2021-03-31T11:58:23Z" duration-ms="13319">
+    <groups>
+    </groups>
+    <test started-at="2021-03-31T11:58:10Z" name="Test" finished-at="2021-03-31T11:58:23Z" duration-ms="13319">
+      <class name="QA_OpenCart.QA_Test.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:QA_OpenCart.QA_Test.LoginTest@412c995d]" started-at="2021-03-31T17:28:10Z" name="setUp" finished-at="2021-03-31T17:28:15Z" duration-ms="5589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:QA_OpenCart.QA_Test.LoginTest@412c995d]" started-at="2021-03-31T17:28:15Z" name="Login" data-provider="getData" finished-at="2021-03-31T17:28:19Z" duration-ms="3824" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[phsLname@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mypaswd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:QA_OpenCart.QA_Test.LoginTest@412c995d]" started-at="2021-03-31T17:28:19Z" name="Login" data-provider="getData" finished-at="2021-03-31T17:28:22Z" duration-ms="3319" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[phsLname@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mypaswd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:QA_OpenCart.QA_Test.LoginTest@412c995d]" started-at="2021-03-31T17:28:22Z" name="tearDown" finished-at="2021-03-31T17:28:23Z" duration-ms="559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- QA_OpenCart.QA_Test.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

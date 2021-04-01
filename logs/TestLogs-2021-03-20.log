@@ -1,0 +1,5 @@
+22:15:07.029 [TestNG] INFO  QA_OpenCart.QA_Test.RegisterTest - User Registered
+22:15:18.631 [TestNG] INFO  QA_OpenCart.QA_Test.RegisterTest - TEST: Register page Password mismatch test begins
+22:15:23.577 [TestNG] INFO  QA_OpenCart.QA_Test.RegisterTest - TEST: Register page Password mismatch test ends
+22:15:23.583 [TestNG] INFO  QA_OpenCart.QA_Test.RegisterTest - TEST: Register User without Mandatory fields test Begins
+22:15:25.334 [TestNG] INFO  QA_OpenCart.QA_Test.RegisterTest - Register without mandatory fields

@@ -1,0 +1,6 @@
+22:15:25.682 [TestNG] INFO  QA_OpenCart.QA_Test.RegisterTest - TEST: Register User without Mandatory fields test Ends
+22:39:07.949 [TestNG] INFO  QA_OpenCart.QA_Test.AddToCartTest - Driver Initialised
+22:39:22.926 [TestNG] INFO  QA_OpenCart.QA_Test.AddToCartTest - Driver Initialised
+22:39:44.828 [TestNG] INFO  QA_OpenCart.QA_Test.LoginTest - Driver initialized
+22:40:20.931 [TestNG] INFO  QA_OpenCart.QA_Test.RegisterTest - Driver Initialised
+22:41:15.919 [TestNG] INFO  QA_OpenCart.QA_Test.RegisterTest - TEST: Register User test Begins
